@@ -1,0 +1,63 @@
+
+*** These modified files were found in JOE when it aborted on Wed Jun 24 08:47:27 2020
+*** JOE was aborted by UNIX signal 1
+
+*** File '/root/hashicat-aws/.git/COMMIT_EDITMSG'
+Merge branch 'eva' of https://github.com/blue800415/hashicat-aws into eva
+
+# Please enter a commit message to explain why this merge is necessary,
+# especially if it merges an updated upstream into a topic branch.
+#
+# Lines starting with '#' will be ignored, and an empty message aborts
+# the commit.
+#
+# It looks like you may be committing a merge.
+# If this is not correct, please remove the file
+#	.git/MERGE_HEAD
+# and try again.
+
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch eva
+# Your branch and 'origin/eva' have diverged,
+# and have 1 and 3 different commits each, respectively.
+#   (use "git pull" to merge the remote branch into yours)
+#
+# All conflicts fixed but you are still merging.
+#
+# Untracked files:
+#	.#Merge branch 'eva' of https
+
+*** File '* Startup Log *'
+Processing '/etc/joe/editorrc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/editorrc
+
+*** File '* Build Log *'
+
+*** File '(Unnamed)'
+/root/hashicat-aws/.git/COMMIT_EDITMSG
+* Build Log *
+* Build Log *
+
+*** These modified files were found in JOE when it aborted on Wed Jun 24 08:50:48 2020
+*** JOE was aborted because the terminal closed
+
+*** File '(Unnamed)'
+q
+
+*** File '(Unnamed)'
+/root/hashicat-aws/.git/MERGE_MSG
+
+*** File '* Startup Log *'
+Processing '/etc/joe/editorrc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/editorrc
+
+*** File 'Merge branch 'eva' of https'
+
+
